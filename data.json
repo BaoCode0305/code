@@ -1,0 +1,35 @@
+[
+    {
+    "id" :"0",
+    "firstName":"Bảo", 
+    "lastName":"Nguyễn",
+    "Emali" : "mailto:hoanbao123@gmail.com" ,
+    "Address" :"123 Hoàn Hoa Thám",
+    "Phone" : "123232323"
+},
+
+{
+    "id" :"1",
+    "firstName":"Thịnh", 
+    "lastName":"Nguyễn",
+    "Emali" : "mailto:huuthinh123@gmail.com" ,
+    "Address" :"123 Mai Chí Thọ", 
+    "Phone" : "123232323"
+},
+{
+    "id" :"2",
+    "firstName":"Minh", 
+    "lastName":"Nguyễn",
+    "Emali" : "mailto:baominh@gmail.com" ,
+    "Address" :"102 Mai Chí Thọ",
+    "Phone" : "123232323" 
+},
+{
+    "id" :"3",
+    "firstName":"Nga", 
+    "lastName":"Nguyễn",
+    "Emali" : "mailto:thanhnga@gmail.com" ,
+    "Address" :"67 Phước Bình",
+    "Phone" : "123232323" 
+}
+]

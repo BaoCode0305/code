@@ -1,0 +1,28 @@
+{
+  "khachhang": [
+    {
+      "id": "1",
+      "firstName": "Bảo",
+      "lastName": "Nguyễn",
+      "Email": "hoanbao123@gmail.com",
+      "Address": "123 Hoàn Hoa Thám",
+      "Phone": "123232323"
+    },
+    {
+      "firstName": "sdfsad",
+      "lastName": "fsdfsda",
+      "Email": "sache123@gmail.com",
+      "Address": "phước long b ",
+      "Phone": "123333",
+      "id": "PjOxTSm"
+    },
+    {
+      "firstName": "ád",
+      "lastName": "ádasdasd",
+      "Email": "baonguyenhoang112@gmail.com",
+      "Address": "310 dương quảng hàm dsfđsvsdcv",
+      "Phone": "123123444433",
+      "id": "mIPdOPQ"
+    }
+  ]
+}
